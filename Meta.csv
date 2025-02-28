@@ -1,4 +1,4 @@
-id,CPU clock(MHZ),CPU usage(%),vedio memory(MB),GPU usage(%),memory(MB),FPS,Type
+id,CPU clock(MHZ),CPU usage(%),video memory(MB),GPU usage(%),memory(MB),FPS,Type
 1,1409,37,809,6,1312,10,0
 2,1107,40,812,5,1305,2,0
 3,1510,25,881,14,1160,5,0
