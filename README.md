@@ -1,2 +1,3 @@
 # VMeta 
-The dataset will be open-sourced once the paper is accepted
+Various QoS metrics are included in the file, including  CPU usage, video memory usage, GPU usage, memory usage, and frame rate；
+
